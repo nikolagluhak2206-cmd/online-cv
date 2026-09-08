@@ -116,7 +116,7 @@ experiences:
         - praktičan rad s tehničkim i elektrotehničkim sustavima
 
 certifications:
-  title: Certifications
+  title: Certifikati
   list:
   - name: Innovative Entrepreneurship Program
     start: 2025
@@ -129,7 +129,7 @@ certifications:
       Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
 
 projects:
-  title: Projects
+  title: Projekti
   intro: >
     Popis samostalno razvijenih projekata.
   assignments:
@@ -167,10 +167,10 @@ skills:
     level: 85%
 
   - name: Python
-    level: 70%
+    level: 40%
 
   - name: JavaScript / HTML / CSS
-    level: 65%
+    level: 50%
 
   - name: PHP
     level: 60%
@@ -179,9 +179,9 @@ skills:
     level: 80%
 
   - name: Linux / Kali Linux
-    level: 65%
+    level: 60%
 
   - name: Osnove PLC programiranja i industrijske automatizacije
-    level: 55%
+    level: 40%
 
 footer: 
