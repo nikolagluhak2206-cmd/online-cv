@@ -9,278 +9,164 @@ sidebar:
 
   # Profile information
   name: Nikola Gluhak
-  tagline: 
+  tagline: Tehničar za električne strojeve s primijenjenim računalstvom | Student 3. godine Računarstva i informatike
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: nikola.gluhak2206@gmail.com
   phone: +385 91 9192 133
   timezone: Europe/Zagreb # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  citizenship: Hrvatska
   website:  # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  linkedin:
+  xing:
+  github: # dodati poveznicu
+  telegram:
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky:
+  twitter:
+  stack-overflow:
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
+    - idiom: Engleski
+      level: C1
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Njemački
+      level: A2
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Linux i embedded sustavi
       link:
 
-
-    - item: Snowboarding
+    - item: Industrijska automatizacija
       link:
 
-
-    - item: Cooking
+    - item: Sigurnost računalnih sustava
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Student 3. godine Računarstva i informatike na Sveučilištu Sjever te tehničar
+    za električne strojeve s primijenjenim računalstvom. Imam praktično iskustvo
+    u razvoju softvera u C/C++, radu s relacijskim bazama podataka, SQL-om, REST
+    API-jima, JSON/XML formatima te razvoju desktop i backend aplikacija.
+
+    Tijekom obrazovanja i samostalnog rada razvijao sam aplikacije koje povezuju
+    korisničko sučelje, poslovnu logiku, baze podataka i vanjske servise.
+    Posebno me zanimaju C/C++, Linux, ugradbeni sustavi te povezivanje softvera
+    s fizičkim uređajima i industrijskom opremom.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Računarstvo i informatika (u tijeku, 3. godina)
+    university: Sveučilište Sjever
+    time: 2024. - danas
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Studij obuhvaća programiranje, računalne mreže, baze podataka, razvoj
+      softvera, arhitekturu računala i primjenu informacijskih tehnologija.
+  - degree: Tehničar za električne strojeve s primijenjenim računalstvom
+    university: SŠ Dragutina Stražimira
+    time: 2015. - 2019.
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Obrazovanje obuhvaća elektrotehniku, električne strojeve, automatizaciju
+      industrijskih postrojenja, PLC sustave, osnove programiranja i primjenu
+      računala u tehničkim sustavima.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Zaštitar
+    time: 2023. - danas
+    company: Pevex d.d.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Obavljanje poslova privatne i tehničke zaštite.
+        - odgovorno postupanje prema sigurnosnim procedurama
+        - samostalan rad i rad u timu
+  - role: Djelatnik u logističkom centru
+    time: 2022. - 2023.
+    company: Alca Zagreb d.o.o.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Rad u logističko-distributivnom centru.
+        - komisioniranje robe
+        - rad prema definiranim procedurama i rokovima
+  - role: Montažer dizala i pokretnih stepenica
+    time: 2019. - 2020.
+    company: Dizala Ekskluziv d.o.o.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Montaža dizala i pokretnih stepenica na gradilištima u Švedskoj i Danskoj.
+        - rad s tehničkom dokumentacijom
+        - rad u međunarodnom timu
+        - praktičan rad s tehničkim i elektrotehničkim sustavima
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Innovative Entrepreneurship Program
+    start: 2025
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: EIT
+    credentialid:
+    credentialurl:
+    credentialname:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Popis samostalno razvijenih projekata.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - title: Gume Zelina Planer
+    link: "#" # dodati GitHub poveznicu
+    tagline: >
+      Samostalno razvijena custom desktop aplikacija za upravljanje terminima i
+      poslovnim procesima (C++, Embarcadero RAD Studio, SQL, Microsoft Access,
+      ADO, REST API, JSON, XML). Uključuje SQL upite i CRUD operacije,
+      autentifikaciju i korisničke uloge, SHA-256 hashiranje lozinki uz salt i
+      pepper, AES enkripciju osobnih podataka, generiranje izvještaja,
+      lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: C / C++
+    level: 90%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: SQL / relacijske baze podataka
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: Python
+    level: 70%
+
+  - name: JavaScript / HTML / CSS
+    level: 65%
+
+  - name: PHP
     level: 60%
+
+  - name: Embarcadero RAD Studio / VCL
+    level: 80%
+
+  - name: Linux / Kali Linux
+    level: 65%
+
+  - name: Osnove PLC programiranja i industrijske automatizacije
+    level: 55%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
