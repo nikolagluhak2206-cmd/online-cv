@@ -143,7 +143,7 @@ projects:
       pepper, AES enkripciju osobnih podataka, generiranje izvještaja,
       lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
 
-    - title: Network Security Lab – MITM Simulation (poveznica na airgeddon skriptu)
+    - title: Network Security Lab – MITM simulacija (poveznica na airgeddon skriptu)
     link: "https://github.com/v1s1t0r1sh3r3/airgeddon" # poveznica na Airgeddon alat korišten u projektu (osobni repo ne postoji)
     tagline: >
       Akademski projekt iz područja sigurnosti računalnih sustava, izveden u
