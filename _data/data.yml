@@ -57,7 +57,7 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Profil
   summary: |
     Student 3. godine Računarstva i informatike na Sveučilištu Sjever te tehničar
     za električne strojeve s primijenjenim računalstvom. Imam praktično iskustvo
@@ -70,7 +70,7 @@ career-profile:
     s fizičkim uređajima i industrijskom opremom.
 
 education:
-  title: Education
+  title: Obrazovanje
   info:
   - degree: Računarstvo i informatika (u tijeku, 3. godina)
     university: Sveučilište Sjever
@@ -151,7 +151,7 @@ skills:
     level: 85%
 
   - name: Python
-    level: 70%
+    level: 40%
 
   - name: JavaScript / HTML / CSS
     level: 65%
@@ -166,7 +166,7 @@ skills:
     level: 65%
 
   - name: Osnove PLC programiranja i industrijske automatizacije
-    level: 55%
+    level: 40%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
+  
