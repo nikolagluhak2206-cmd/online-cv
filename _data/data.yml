@@ -16,7 +16,7 @@ sidebar:
   email: nikola.gluhak2206@gmail.com
   phone: +385 91 9192 133
   timezone: Europe/Zagreb # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Hrvatska/Koprivnica/Sveti Ivan Zelina
+  citizenship: Hrvatska / Koprivnica / Sveti Ivan Zelina
   website:  # Include the full website URL, including "http://" or "https://".
   linkedin: nikola-gluhak-070367310
   xing:
@@ -41,10 +41,10 @@ sidebar:
       level: materinski
       
     - idiom: engleski
-      level: C1
+      level: C1 (profesionalno)
 
-    - idiom: njemački
-      level: A2
+    - idiom: Njemački
+      level: A2 (s razumijevanjem)
 
   interests:
     title: Interesi
@@ -116,20 +116,20 @@ experiences:
         - praktičan rad s tehničkim i elektrotehničkim sustavima
 
 certifications:
-  title: Certifikati
+  title: Certifications
   list:
   - name: Innovative Entrepreneurship Program
     start: 2025
     end:
     organization: EIT
-    credentialid: 64380934629558
+    credentialid:
     credentialurl:
-    credentialname: Innovative Enterpreneurship Curriculum Program
+    credentialname:
     details: |
       Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
 
 projects:
-  title: Projekti
+  title: Projects
   intro: >
     Popis samostalno razvijenih projekata.
   assignments:
@@ -142,11 +142,12 @@ projects:
       autentifikaciju i korisničke uloge, SHA-256 hashiranje lozinki uz salt i
       pepper, AES enkripciju osobnih podataka, generiranje izvještaja,
       lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
-    - title: Network Security Lab – MITM simulacija (poveznica na airgeddon skriptu)
+
+  - title: Network Security Lab – MITM Simulacija (Poveznica na airgeddon skriptu)
     link: "https://github.com/v1s1t0r1sh3r3/airgeddon" # poveznica na Airgeddon alat korišten u projektu (osobni repo ne postoji)
     tagline: >
       Akademski projekt iz područja sigurnosti računalnih sustava, izveden u
-      kontroliranom laboratorijskom okruženju (Kali Linux, Airgeddon skripta). Obuhvaćao je
+      kontroliranom laboratorijskom okruženju (Linux, Airgeddon). Obuhvaćao je
       proučavanje koncepta Man-in-the-Middle napada, analizu mrežne
       komunikacije te praktično upoznavanje s osnovama sigurnosti bežičnih
       mreža. U sklopu kolegija Sigurnost računalnih sustava izrađena je i na
@@ -166,7 +167,7 @@ skills:
     level: 85%
 
   - name: Python
-    level: 40%
+    level: 70%
 
   - name: JavaScript / HTML / CSS
     level: 65%
@@ -181,7 +182,7 @@ skills:
     level: 65%
 
   - name: Osnove PLC programiranja i industrijske automatizacije
-    level: 40%
+    level: 55%
 
-footer: 
-  
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
