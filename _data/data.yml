@@ -123,7 +123,7 @@ certifications:
     end:
     organization: EIT
     credentialid: 64380934629558
-    credentialurl: https://certificates.eiturbanmobility.eu/en/verify/64380934629558?ref=email
+    credentialurl: "https://certificates.eiturbanmobility.eu/en/verify/64380934629558?ref=email"
     credentialname: Innovative Enterpreneurship Curriculum Program
     details: |
       Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
@@ -142,6 +142,19 @@ projects:
       autentifikaciju i korisničke uloge, SHA-256 hashiranje lozinki uz salt i
       pepper, AES enkripciju osobnih podataka, generiranje izvještaja,
       lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
+
+    - title: Network Security Lab – MITM Simulation (poveznica na airgeddon skriptu)
+    link: "https://github.com/v1s1t0r1sh3r3/airgeddon" # poveznica na Airgeddon alat korišten u projektu (osobni repo ne postoji)
+    tagline: >
+      Akademski projekt iz područja sigurnosti računalnih sustava, izveden u
+      kontroliranom laboratorijskom okruženju (Kali Linux, Airgeddon skripta). Obuhvaćao je
+      proučavanje koncepta Man-in-the-Middle napada, analizu mrežne
+      komunikacije te praktično upoznavanje s osnovama sigurnosti bežičnih
+      mreža. U sklopu kolegija Sigurnost računalnih sustava izrađena je i na
+      seminaru prezentirana demonstracijska (klonirana) EduAI login stranica,
+      korištena za edukativni prikaz phishing tehnika i rizika prikupljanja
+      korisničkih vjerodajnica te podizanje svijesti o social engineering
+      prijetnjama.
 
 skills:
   title: Vještine &amp; Stručnost
