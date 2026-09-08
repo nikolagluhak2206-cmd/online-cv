@@ -123,7 +123,7 @@ certifications:
     end:
     organization: EIT
     credentialid: 64380934629558
-    credentialurl: "https://certificates.eiturbanmobility.eu/en/verify/64380934629558?ref=email"
+    credentialurl:
     credentialname: Innovative Enterpreneurship Curriculum Program
     details: |
       Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
