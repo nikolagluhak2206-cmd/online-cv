@@ -142,7 +142,6 @@ projects:
       autentifikaciju i korisničke uloge, SHA-256 hashiranje lozinki uz salt i
       pepper, AES enkripciju osobnih podataka, generiranje izvještaja,
       lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
-
     - title: Network Security Lab – MITM simulacija (poveznica na airgeddon skriptu)
     link: "https://github.com/v1s1t0r1sh3r3/airgeddon" # poveznica na Airgeddon alat korišten u projektu (osobni repo ne postoji)
     tagline: >
