@@ -18,9 +18,9 @@ sidebar:
   timezone: Europe/Zagreb # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Hrvatska
   website:  # Include the full website URL, including "http://" or "https://".
-  linkedin:
+  linkedin: nikolagluhak
   xing:
-  github: https://github.com/nikolagluhak2206-cmd
+  github: nikolagluhak2206-cmd
   telegram:
   gitlab:
   bitbucket:
@@ -35,16 +35,19 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Jezici
     info:
-    - idiom: Engleski
+    - idiom: hrvatski
+      level: materinski
+      
+    - idiom: engleski
       level: C1
 
-    - idiom: Njemački
+    - idiom: njemački
       level: A2
 
   interests:
-    title: Interests
+    title: Interesi
     info:
     - item: Linux i embedded sustavi
       link:
@@ -87,7 +90,7 @@ education:
       računala u tehničkim sustavima.
 
 experiences:
-  title: Experiences
+  title: Radna iskustva
   info:
   - role: Zaštitar
     time: 2023. - danas
@@ -113,7 +116,7 @@ experiences:
         - praktičan rad s tehničkim i elektrotehničkim sustavima
 
 certifications:
-  title: Certifications
+  title: Certifikati
   list:
   - name: Innovative Entrepreneurship Program
     start: 2025
@@ -126,12 +129,12 @@ certifications:
       Program iz područja inovativnog poduzetništva u organizaciji EIT-a.
 
 projects:
-  title: Projects
+  title: Projekti
   intro: >
     Popis samostalno razvijenih projekata.
   assignments:
   - title: Gume Zelina Planer
-    link: "#" # dodati GitHub poveznicu
+    link: "https://github.com/nikolagluhak2206-cmd/GZP-planer" # dodati GitHub poveznicu
     tagline: >
       Samostalno razvijena custom desktop aplikacija za upravljanje terminima i
       poslovnim procesima (C++, Embarcadero RAD Studio, SQL, Microsoft Access,
@@ -141,7 +144,7 @@ projects:
       lokalizaciju aplikacije te konfiguraciju putem INI datoteka.
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Vještine &amp; Stručnost
 
   toolset:
   - name: C / C++
