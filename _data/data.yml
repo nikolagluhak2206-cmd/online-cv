@@ -41,14 +41,17 @@ sidebar:
       level: materinski
       
     - idiom: engleski
-      level: C1 (profesionalno)
+      level: C1 - profesionalno
 
     - idiom: Njemački
-      level: A2 (s razumijevanjem)
+      level: A2 - s razumijevanjem
 
   interests:
     title: Interesi
     info:
+    - item: Razvoj poslovnih aplikacija
+      link:
+      
     - item: Linux i embedded sustavi
       link:
 
